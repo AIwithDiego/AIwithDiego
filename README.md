@@ -8,6 +8,7 @@ I build agentic AI systems that have run on real business data, and I work on bo
 | Project | What it is | Links |
 |---|---|---|
 | **AIgentSmith architecture** | Case study of an agent platform I designed and built: the agent engine, a runtime gateway with signed single-use tokens, and a multi-tenant substrate where each business gets its own sealed agent. | [repo](https://github.com/AIwithDiego/aigentsmith-architecture) |
+| **taste-to-evals** | An agent interviews a business owner, turns their rules into typed checks and an LLM judge, and gates every change another agent proposes before a human approves. Presented at AI Tinkerers Dublin. TypeScript, Claude, MCP. | [repo](https://github.com/AIwithDiego/taste-to-evals) |
 | **Haven** | macOS desktop app that gives Claude Code, Codex and real terminals one home. Electron. | [repo](https://github.com/AIwithDiego/haven) |
 | **attendance-mcp** | MCP server that lets an AI assistant analyse staff attendance: 7 read-only tools, a resource and a prompt. TypeScript, official MCP SDK, tested live with Claude Code. | [repo](https://github.com/AIwithDiego/attendance-mcp) |
 | **Hank** | AI-security scanner and training quiz for Claude Code setups, mapped to the OWASP LLM Top 10. | [repo](https://github.com/AIwithDiego/hank) |

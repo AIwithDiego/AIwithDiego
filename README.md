@@ -1,7 +1,7 @@
 <a href="https://www.aiwithdiego.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-    <img alt="Diego Bauer: Product Owner who builds the AI, ships it, and owns what it does." src="assets/header-light.png" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.gif">
+    <img alt="Diego Bauer: I build responsible AI that solves real problems." src="assets/header-light.gif" width="100%">
   </picture>
 </a>
 
@@ -10,7 +10,9 @@
   <a href="https://www.linkedin.com/in/diego-bauer-domeyko/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=5AA9FF"></a>
 </p>
 
-I build agentic AI systems that have run on real business data, and I work on both sides of them: the product decisions and the code. Most of what I build is about one question: **how do you let an agent act on a business without it doing something the owner wouldn't?**
+I start with people. I talk to the ones doing the work, research how it really runs, and find the problem worth solving. Then I decide what's worth making and, just as important, what isn't. I ship what has to be done and run it in production, owning both the product decisions and the code along the way.
+
+Most of my work answers one question: **how do you let an agent act on a business without it doing something the owner wouldn't?** I design for the EU AI Act and GDPR from the start, and [Hank](https://github.com/AIwithDiego/hank), a security and compliance reviewer I made, checks my projects before they ship. AI governance keeps those rules enforced once the agent is live: the owner's rules run as evals on every change, and a human stays in the loop to approve before the agent acts.
 
 **Latest:** [taste-to-evals](https://github.com/AIwithDiego/taste-to-evals), presented at AI Tinkerers Dublin, October 2026.
 
@@ -70,6 +72,16 @@ A virtual pet in the browser: raise a robot in real time, teach it how to treat 
 **Also built:** [attendance-mcp](https://github.com/AIwithDiego/attendance-mcp), an MCP server that lets an AI assistant analyse staff attendance with read-only tools · [Gym Routine Builder](https://github.com/AIwithDiego/gym-routine-builder), plan routines and run them set by set ([live](https://gym-routine-builder.vercel.app)).
 
 Most of my production work is for clients and lives in private repos. The case studies describe those systems without the code.
+
+## What went wrong
+
+Most repos close with "What I learned". These three taught me the most.
+
+| | |
+|---|---|
+| **The server was an open door.** v1 kept the database key off the browser, and its API routes let anyone read and change the data anyway. | [Gym Routine Builder](https://github.com/AIwithDiego/gym-routine-builder#what-i-learned) |
+| **An empty list is an answer.** A misspelt site name returned nothing, and the model would have reported "nobody was late". | [attendance-mcp](https://github.com/AIwithDiego/attendance-mcp#what-i-learned) |
+| **An approval gate is only as honest as what it shows.** A tool name and a cut-off details view is really just "Allow?". | [Haven](https://github.com/AIwithDiego/haven#what-i-learned) |
 
 ## How I work
 

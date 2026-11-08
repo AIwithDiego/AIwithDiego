@@ -23,9 +23,9 @@ Most of my work answers one question: **how do you let an agent act on a busines
 <td width="50%" valign="top">
 <a href="https://github.com/AIwithDiego/ai-exposure-scan"><img src="assets/cover-ai-exposure-scan.png" alt="AI Exposure Scan: a café scores 52/100 because its OpenAI key sits in public JavaScript"></a>
 <h3><a href="https://github.com/AIwithDiego/ai-exposure-scan">AI Exposure Scan</a></h3>
-Type in a website and see what AI it exposes: chat widgets, AI keys in public code, where the data goes, and whether the site says it uses AI. Every finding comes with its evidence. Built in a day with Devin. <a href="https://aiwithdiego.github.io/ai-exposure-scan/">Try the demo</a>.
+Type in a website and see what AI it exposes: chat widgets, AI keys in public code, where the data goes, and whether the site says it uses AI. Every finding comes with its evidence, and a <a href="https://aiwithdiego.github.io/ai-exposure-scan/design-system.html">design system</a> with measured accessibility. Built in a day with Devin. <a href="https://aiwithdiego.github.io/ai-exposure-scan/">Try the demo</a>.
 <br><br>
-<code>Python</code> <code>Playwright</code> <code>React</code> <code>EU AI Act</code>
+<code>Design system</code> <code>Python</code> <code>React</code> <code>EU AI Act</code>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/AIwithDiego/taste-to-evals"><img src="assets/cover-taste-to-evals.png" alt="taste-to-evals: a rota change sent back because Tom would work 48 hours"></a>

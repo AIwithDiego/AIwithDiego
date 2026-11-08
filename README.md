@@ -14,12 +14,19 @@ I start with people. I talk to the ones doing the work, research how it really r
 
 Most of my work answers one question: **how do you let an agent act on a business without it doing something the owner wouldn't?** I design for the EU AI Act and GDPR from the start, and [Hank](https://github.com/AIwithDiego/hank), a security and compliance reviewer I made, checks my projects before they ship. AI governance keeps those rules enforced once the agent is live: the owner's rules run as evals on every change, and a human stays in the loop to approve before the agent acts.
 
-**Latest:** [taste-to-evals](https://github.com/AIwithDiego/taste-to-evals), presented at AI Tinkerers Dublin, October 2026.
+**Latest:** [AI Exposure Scan](https://github.com/AIwithDiego/ai-exposure-scan), built in a day with Devin at the Cognition x Give(a)Go build day, Dublin, November 2026. [Try the demo](https://aiwithdiego.github.io/ai-exposure-scan/).
 
 ## Featured work
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://github.com/AIwithDiego/ai-exposure-scan"><img src="assets/cover-ai-exposure-scan.png" alt="AI Exposure Scan: a café scores 52/100 because its OpenAI key sits in public JavaScript"></a>
+<h3><a href="https://github.com/AIwithDiego/ai-exposure-scan">AI Exposure Scan</a></h3>
+Type in a website and see what AI it exposes: chat widgets, AI keys in public code, where the data goes, and whether the site says it uses AI. Every finding comes with its evidence. Built in a day with Devin. <a href="https://aiwithdiego.github.io/ai-exposure-scan/">Try the demo</a>.
+<br><br>
+<code>Python</code> <code>Playwright</code> <code>React</code> <code>EU AI Act</code>
+</td>
 <td width="50%" valign="top">
 <a href="https://github.com/AIwithDiego/taste-to-evals"><img src="assets/cover-taste-to-evals.png" alt="taste-to-evals: a rota change sent back because Tom would work 48 hours"></a>
 <h3><a href="https://github.com/AIwithDiego/taste-to-evals">taste-to-evals</a></h3>
@@ -27,6 +34,8 @@ An agent interviews a business owner, turns their rules into typed checks and an
 <br><br>
 <code>TypeScript</code> <code>Claude</code> <code>MCP</code> <code>Evals</code>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/AIwithDiego/aigentsmith-architecture"><img src="assets/cover-aigentsmith.png" alt="AIgentSmith architecture: control plane, single-use tokens and sealed tenants"></a>
 <h3><a href="https://github.com/AIwithDiego/aigentsmith-architecture">AIgentSmith architecture</a></h3>
@@ -34,8 +43,6 @@ Case study of the agent platform I designed and built for small businesses: an a
 <br><br>
 <code>Architecture</code> <code>Security</code> <code>Multi-tenant</code>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/AIwithDiego/haven"><img src="assets/cover-haven.png" alt="Haven: an approval card before the agent runs a shell command"></a>
 <h3><a href="https://github.com/AIwithDiego/haven">Haven</a></h3>
@@ -43,6 +50,8 @@ A calm macOS workspace for Claude Code, Codex and real terminals, side by side a
 <br><br>
 <code>Electron</code> <code>TypeScript</code> <code>Swift</code>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/AIwithDiego/hank"><img src="assets/cover-hank.png" alt="Hank: security and compliance findings ranked by severity"></a>
 <h3><a href="https://github.com/AIwithDiego/hank">Hank</a></h3>
@@ -50,8 +59,6 @@ An AI security and EU compliance analyst for Claude Code: OWASP LLM and Agentic 
 <br><br>
 <code>Claude Code plugin</code> <code>OWASP</code> <code>EU law</code>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/AIwithDiego/byjosem-case-study"><img src="assets/cover-byjosem.png" alt="ByJoseM: the events hub in the admin"></a>
 <h3><a href="https://github.com/AIwithDiego/byjosem-case-study">ByJoseM case study</a></h3>
@@ -59,17 +66,10 @@ A custom operations platform for an Irish premium bartending business: CRM, quot
 <br><br>
 <code>Client work</code> <code>Case study</code>
 </td>
-<td width="50%" valign="top">
-<a href="https://robogotchi-nine.vercel.app"><img src="assets/cover-robogotchi.png" alt="Robogotchi: the landing screen with a robot in its nursery"></a>
-<h3><a href="https://github.com/AIwithDiego/robogotchi">Robogotchi</a></h3>
-A virtual pet in the browser: raise a robot in real time, teach it how to treat humans, and keep it alive. <a href="https://robogotchi-nine.vercel.app">Play it</a>.
-<br><br>
-<code>React</code> <code>TypeScript</code> <code>No backend</code>
-</td>
 </tr>
 </table>
 
-**Also built:** [attendance-mcp](https://github.com/AIwithDiego/attendance-mcp), an MCP server that lets an AI assistant analyse staff attendance with read-only tools · [Gym Routine Builder](https://github.com/AIwithDiego/gym-routine-builder), plan routines and run them set by set ([live](https://gym-routine-builder.vercel.app)).
+**Also built:** [Robogotchi](https://github.com/AIwithDiego/robogotchi), a virtual pet robot you raise in the browser ([play it](https://robogotchi-nine.vercel.app)) · [attendance-mcp](https://github.com/AIwithDiego/attendance-mcp), an MCP server that lets an AI assistant analyse staff attendance with read-only tools · [Gym Routine Builder](https://github.com/AIwithDiego/gym-routine-builder), plan routines and run them set by set ([live](https://gym-routine-builder.vercel.app)).
 
 Most of my production work is for clients and lives in private repos. The case studies describe those systems without the code.
 

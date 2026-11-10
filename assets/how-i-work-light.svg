@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 520" width="1280" height="520" font-family="ui-monospace,'SF Mono',Menlo,Consolas,'JetBrains Mono',monospace" role="img" aria-label="How Diego works: people, the problem worth solving, the build, shipped with a design review, EU AI Act and GDPR from day one, the owner's rules as evals and a human approving, then run in production and back to people.">
+<rect width="1280" height="520" fill="#F7F9FB"/>
+<path d="M0 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M40 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M80 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M120 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M160 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M200 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M240 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M280 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M320 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M360 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M400 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M440 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M480 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M520 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M560 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M600 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M640 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M680 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M720 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M760 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M800 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M840 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M880 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M920 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M960 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M1000 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M1040 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M1080 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M1120 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M1160 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M1200 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M1240 0V520" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M0 0H1280" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M0 40H1280" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M0 80H1280" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M0 120H1280" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M0 160H1280" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M0 200H1280" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M0 240H1280" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M0 280H1280" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M0 320H1280" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M0 360H1280" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M0 400H1280" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M0 440H1280" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M0 480H1280" stroke="#EDF1F5" stroke-width="1"/>
+<path d="M240 238H355" stroke="#C9D3DE" stroke-width="1.5"/>
+<circle cx="240" cy="238" r="5" fill="#F7F9FB" stroke="#C9D3DE" stroke-width="1.5"/><circle cx="355" cy="238" r="5" fill="#F7F9FB" stroke="#C9D3DE" stroke-width="1.5"/>
+<text x="297.5" y="222" fill="#5A7590" font-size="12" letter-spacing="1.5" text-anchor="middle">LISTEN</text>
+<text x="297.5" y="266" fill="#5A7590" font-size="12" letter-spacing="1.5" text-anchor="middle">RESEARCH</text>
+<path d="M575 238H690" stroke="#C9D3DE" stroke-width="1.5"/>
+<circle cx="575" cy="238" r="5" fill="#F7F9FB" stroke="#C9D3DE" stroke-width="1.5"/><circle cx="690" cy="238" r="5" fill="#F7F9FB" stroke="#C9D3DE" stroke-width="1.5"/>
+<text x="632.5" y="222" fill="#5A7590" font-size="12" letter-spacing="1.5" text-anchor="middle">DECIDE</text>
+<text x="632.5" y="266" fill="#5A7590" font-size="12" letter-spacing="1.5" text-anchor="middle">AND CUT</text>
+<path d="M880 238H905" stroke="#C9D3DE" stroke-width="1.5"/>
+<path d="M905 238 C935 238 930 107.0 960 107.0" fill="none" stroke="#C9D3DE" stroke-width="1.5"/><circle cx="960" cy="107.0" r="4.5" fill="#F7F9FB" stroke="#C9D3DE" stroke-width="1.5"/>
+<path d="M905 238 C935 238 930 199.0 960 199.0" fill="none" stroke="#C9D3DE" stroke-width="1.5"/><circle cx="960" cy="199.0" r="4.5" fill="#F7F9FB" stroke="#C9D3DE" stroke-width="1.5"/>
+<path d="M905 238 C935 238 930 291.0 960 291.0" fill="none" stroke="#C9D3DE" stroke-width="1.5"/><circle cx="960" cy="291.0" r="4.5" fill="#F7F9FB" stroke="#C9D3DE" stroke-width="1.5"/>
+<path d="M905 238 C935 238 930 383.0 960 383.0" fill="none" stroke="#C9D3DE" stroke-width="1.5"/><circle cx="960" cy="383.0" r="4.5" fill="#F7F9FB" stroke="#C9D3DE" stroke-width="1.5"/>
+<text x="945" y="48" fill="#5A7590" font-size="13" letter-spacing="1">shipped with guardrails</text>
+<rect x="945" y="58" width="320" height="374" fill="none" stroke="#C9D3DE" stroke-width="1.2"/>
+<path d="M1105.0 432 V478 H135 V280" fill="none" stroke="#C9D3DE" stroke-width="1.5" stroke-dasharray="5 6"/>
+<g class="node" data-id="run"><rect x="300" y="452" width="625.0" height="26" fill="#F7F9FB" opacity="0"/><text x="615.0" y="470" fill="#5A7590" font-size="12" letter-spacing="1.5" text-anchor="middle">RUN IT IN PRODUCTION · OWN THE PRODUCT AND THE CODE · LEARN</text></g>
+<g id="n-people" class="node" data-id="people"><rect x="30" y="196" width="210" height="84" fill="#FFFFFF" stroke="#C9D3DE" stroke-width="1.5"/><rect x="36" y="202" width="198" height="72" fill="none" stroke="#E2E8EF" stroke-width="1"/><text x="52" y="234.0" fill="#0B0F14" font-size="21" font-weight="600">people</text><text x="52" y="258.0" fill="#4B5B6B" font-size="13">the ones doing the work</text><rect x="30" y="196" width="210" height="84" fill="none" stroke="#1F6FD1" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.02;0.06;0.14;1" dur="8s" repeatCount="indefinite"/></rect></g>
+<g id="n-problem" class="node" data-id="problem"><rect x="355" y="182" width="220" height="112" fill="#FFFFFF" stroke="#1F6FD1" stroke-width="2"/><rect x="361" y="188" width="208" height="100" fill="none" stroke="#E2E8EF" stroke-width="1"/><text x="377" y="234.0" fill="#0B0F14" font-size="24" font-weight="600">the problem</text><text x="377" y="258.0" fill="#4B5B6B" font-size="13">worth solving</text><rect x="355" y="182" width="220" height="112" fill="none" stroke="#1F6FD1" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.14;0.2;0.3;1" dur="8s" repeatCount="indefinite"/></rect></g>
+<g id="n-build" class="node" data-id="build"><rect x="690" y="196" width="190" height="84" fill="#FFFFFF" stroke="#C9D3DE" stroke-width="1.5"/><rect x="696" y="202" width="178" height="72" fill="none" stroke="#E2E8EF" stroke-width="1"/><text x="712" y="234.0" fill="#0B0F14" font-size="21" font-weight="600">the build</text><text x="712" y="258.0" fill="#4B5B6B" font-size="13">only what's worth it</text><rect x="690" y="196" width="190" height="84" fill="none" stroke="#1F6FD1" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.3;0.36;0.46;1" dur="8s" repeatCount="indefinite"/></rect></g>
+<g id="n-review" class="node" data-id="review"><rect x="960" y="70" width="290" height="74" fill="#FFFFFF" stroke="#C9D3DE" stroke-width="1.5"/><rect x="966" y="76" width="278" height="62" fill="none" stroke="#E2E8EF" stroke-width="1"/><text x="982" y="103.0" fill="#0B0F14" font-size="18" font-weight="600">design review</text><text x="982" y="127.0" fill="#4B5B6B" font-size="12.5">product, architecture, QA, security</text><rect x="960" y="70" width="290" height="74" fill="none" stroke="#1F6FD1" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.48;0.53;0.64;1" dur="8s" repeatCount="indefinite"/></rect></g>
+<g id="n-law" class="node" data-id="law"><rect x="960" y="162" width="290" height="74" fill="#FFFFFF" stroke="#C9D3DE" stroke-width="1.5"/><rect x="966" y="168" width="278" height="62" fill="none" stroke="#E2E8EF" stroke-width="1"/><text x="982" y="195.0" fill="#0B0F14" font-size="18" font-weight="600">EU AI Act + GDPR</text><text x="982" y="219.0" fill="#4B5B6B" font-size="12.5">from day one, checked by Hank</text><rect x="960" y="162" width="290" height="74" fill="none" stroke="#1F6FD1" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.53;0.58;0.69;1" dur="8s" repeatCount="indefinite"/></rect></g>
+<g id="n-evals" class="node" data-id="evals"><rect x="960" y="254" width="290" height="74" fill="#FFFFFF" stroke="#C9D3DE" stroke-width="1.5"/><rect x="966" y="260" width="278" height="62" fill="none" stroke="#E2E8EF" stroke-width="1"/><text x="982" y="287.0" fill="#0B0F14" font-size="18" font-weight="600">the owner's rules</text><text x="982" y="311.0" fill="#4B5B6B" font-size="12.5">run as evals on every change</text><rect x="960" y="254" width="290" height="74" fill="none" stroke="#1F6FD1" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.58;0.63;0.74;1" dur="8s" repeatCount="indefinite"/></rect></g>
+<g id="n-human" class="node" data-id="human"><rect x="960" y="346" width="290" height="74" fill="#FFFFFF" stroke="#C9D3DE" stroke-width="1.5"/><rect x="966" y="352" width="278" height="62" fill="none" stroke="#E2E8EF" stroke-width="1"/><text x="982" y="379.0" fill="#0B0F14" font-size="18" font-weight="600">a human approves</text><text x="982" y="403.0" fill="#4B5B6B" font-size="12.5">before the agent acts</text><rect x="960" y="346" width="290" height="74" fill="none" stroke="#1F6FD1" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.63;0.68;0.79;1" dur="8s" repeatCount="indefinite"/></rect></g>
+<circle r="7" fill="#1F6FD1"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.46;1" calcMode="linear" path="M240 238H905"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.46;0.47;1" dur="8s" repeatCount="indefinite"/></circle>
+<circle r="5.5" fill="#1F6FD1" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.46;0.51;1" calcMode="linear" path="M905 238 C935 238 930 107.0 960 107.0"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.46;0.465;0.51;0.52;1" dur="8s" repeatCount="indefinite"/></circle>
+<circle r="5.5" fill="#1F6FD1" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.51;0.56;1" calcMode="linear" path="M905 238 C935 238 930 199.0 960 199.0"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.51;0.515;0.56;0.57;1" dur="8s" repeatCount="indefinite"/></circle>
+<circle r="5.5" fill="#1F6FD1" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.56;0.61;1" calcMode="linear" path="M905 238 C935 238 930 291.0 960 291.0"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.56;0.565;0.61;0.62;1" dur="8s" repeatCount="indefinite"/></circle>
+<circle r="5.5" fill="#1F6FD1" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.61;0.66;1" calcMode="linear" path="M905 238 C935 238 930 383.0 960 383.0"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.61;0.615;0.66;0.67;1" dur="8s" repeatCount="indefinite"/></circle>
+<circle r="5.5" fill="#23955E" opacity="0"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.74;0.98;1" calcMode="linear" path="M1105.0 432 V478 H135 V280"/><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.74;0.75;0.98;1" dur="8s" repeatCount="indefinite"/></circle>
+</svg>

@@ -73,21 +73,16 @@ A custom operations platform for an Irish premium bartending business: CRM, quot
 
 Most of my production work is for clients and lives in private repos. The case studies describe those systems without the code.
 
-## What went wrong
-
-Most repos close with "What I learned". These three taught me the most.
-
-| | |
-|---|---|
-| **The server was an open door.** v1 kept the database key off the browser, and its API routes let anyone read and change the data anyway. | [Gym Routine Builder](https://github.com/AIwithDiego/gym-routine-builder#what-i-learned) |
-| **An empty list is an answer.** A misspelt site name returned nothing, and the model would have reported "nobody was late". | [attendance-mcp](https://github.com/AIwithDiego/attendance-mcp#what-i-learned) |
-| **An approval gate is only as honest as what it shows.** A tool name and a cut-off details view is really just "Allow?". | [Haven](https://github.com/AIwithDiego/haven#what-i-learned) |
-
 ## How I work
 
-- **Design before code.** A written design doc before anything non-trivial, reviewed from product, architecture, QA and security angles.
-- **Evals, not vibes.** Tests on everything that ships. For agent behaviour that means evals with deterministic checks.
-- **Secure by default.** Auth and row-level security on anything that holds user data, secret scanning in CI, and an independent security review before release.
+<a href="https://aiwithdiego.github.io/AIwithDiego/how-i-work/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/how-i-work-dark.svg">
+    <img alt="How I work: people, the problem worth solving, only what's worth building, shipped with a design review, EU AI Act and GDPR from day one, the owner's rules as evals and a human approving, then run in production and back to people." src="assets/how-i-work-light.svg" width="100%">
+  </picture>
+</a>
+
+I start with the people doing the work and end with an agent that's safe to run on a real business. **[Open the interactive version](https://aiwithdiego.github.io/AIwithDiego/how-i-work/)** to see what each step means and the repos that show it.
 
 ## Stack
 

@@ -1,7 +1,7 @@
 <a href="https://www.aiwithdiego.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-    <img alt="Diego Bauer: I build responsible AI that solves real problems." src="assets/header-light.png" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark-v2.png">
+    <img alt="Diego Bauer: I build responsible AI that solves real problems." src="assets/header-light-v2.png" width="100%">
   </picture>
 </a>
 

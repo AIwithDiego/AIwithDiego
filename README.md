@@ -53,9 +53,9 @@ An agent interviews a business owner, turns their rules into typed checks and an
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/AIwithDiego/hank"><img src="assets/cover-hank.png" alt="Hank: security and compliance findings ranked by severity"></a>
+<a href="https://github.com/AIwithDiego/hank"><img src="assets/cover-hank.png" alt="Hank: 18 of 18 planted issues found in a deliberately unsafe AI app, 0 hidden instructions followed"></a>
 <h3><a href="https://github.com/AIwithDiego/hank">Hank</a></h3>
-An AI security and EU compliance analyst for Claude Code: OWASP LLM and Agentic Top 10 reviews, plus GDPR, AI Act, NIS2, CRA and DORA.
+An AI security and EU compliance analyst for Claude Code: OWASP LLM and Agentic Top 10 reviews, plus GDPR, AI Act, NIS2, CRA and DORA. Found all 18 issues planted in a deliberately unsafe support chat and didn't follow the poisoned tool's hidden instructions. <a href="https://github.com/AIwithDiego/hank/tree/main/docs/sample-review">Check the review</a>.
 <br><br>
 <code>Claude Code plugin</code> <code>OWASP</code> <code>EU law</code>
 </td>
@@ -69,7 +69,7 @@ A custom operations platform for an Irish premium bartending business: CRM, quot
 </tr>
 </table>
 
-**Also built:** [AIgentSmith architecture](https://github.com/AIwithDiego/aigentsmith-architecture), the architecture case study of an agent engine with a sealed multi-tenant substrate · [Haven](https://github.com/AIwithDiego/haven), a macOS workspace for Claude Code, Codex and terminals with an approval card before any risky action · [Robogotchi](https://github.com/AIwithDiego/robogotchi), a virtual pet robot you raise in the browser ([play it](https://robogotchi-nine.vercel.app)) · [attendance-mcp](https://github.com/AIwithDiego/attendance-mcp), an MCP server that lets an AI assistant analyse staff attendance with read-only tools · [Gym Routine Builder](https://github.com/AIwithDiego/gym-routine-builder), plan routines and run them set by set ([live](https://gym-routine-builder.vercel.app)).
+**Also built:** [AIgentSmith architecture](https://github.com/AIwithDiego/aigentsmith-architecture), the architecture case study of an agent engine with a sealed multi-tenant substrate · [attendance-mcp](https://github.com/AIwithDiego/attendance-mcp), an MCP server that lets an AI assistant analyse staff attendance with read-only tools, checked against patterns planted in its demo data · [Robogotchi](https://github.com/AIwithDiego/robogotchi), a virtual pet robot you raise in the browser, winner of a Skool community game challenge ([play it](https://robogotchi-nine.vercel.app)) · [Gym Routine Builder](https://github.com/AIwithDiego/gym-routine-builder), the app that did too much until a weekly plan fixed it · [Haven](https://github.com/AIwithDiego/haven), a macOS workspace for my coding agents that I built, used every day and deleted after three weeks, and why.
 
 Most of my production work is for clients and lives in private repos. The case studies describe those systems without the code.
 

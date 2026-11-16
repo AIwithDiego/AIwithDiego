@@ -71,9 +71,9 @@ A skill for Claude Code and Codex that reads the session logs already on your ma
 <td width="50%" valign="top">
 <a href="https://github.com/AIwithDiego/byjosem-case-study"><img src="assets/cover-byjosem.png" alt="ByJoseM: the events hub in the admin"></a>
 <h3><a href="https://github.com/AIwithDiego/byjosem-case-study">ByJoseM case study</a></h3>
-A custom operations platform for an Irish premium bartending business: CRM, quotes, invoices, stock and staff. Shipped continuously for a year.
+A year building the back office for an Irish premium bartending business: CRM, quotes, invoices, stock and staff. Then the last layer: a ChatGPT connector with 34 tools, and now the owner runs the business by talking to it.
 <br><br>
-<code>Client work</code> <code>Case study</code>
+<code>Client work</code> <code>MCP</code> <code>ChatGPT</code> <code>Supabase</code>
 </td>
 </tr>
 </table>

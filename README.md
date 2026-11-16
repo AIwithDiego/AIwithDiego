@@ -14,7 +14,7 @@ I start with people. I talk to the ones doing the work, research how it really r
 
 Most of my work answers one question: **how do you let an agent act on a business without it doing something the owner wouldn't?** I design for the EU AI Act and GDPR from the start, and [Hank](https://github.com/AIwithDiego/hank), a security and compliance reviewer I made, checks my projects before they ship. AI governance keeps those rules enforced once the agent is live: the owner's rules run as evals on every change, and a human stays in the loop to approve before the agent acts.
 
-**Latest:** [AI Act Check](https://github.com/AIwithDiego/ai-act-check), 1st place at the Stripe MPP Hackathon Dublin, 10 Nov 2026: an API that AI agents pay to check their code against the EU AI Act. Before it, [humanizer-es](https://github.com/AIwithDiego/humanizer-es), a humanizer for Spanish that ranked first of six in a blind test, and [AI Exposure Scan](https://github.com/AIwithDiego/ai-exposure-scan), built in a day with Devin at the Cognition x Give(a)Go build day, Dublin.
+**Latest:** [Session receipts](https://github.com/AIwithDiego/session-receipts), released 16 Nov 2026: a skill for Claude Code and Codex that shows what your agents did and which of your rules they broke, with the log line as proof. Before it, [AI Act Check](https://github.com/AIwithDiego/ai-act-check), 1st place at the Stripe MPP Hackathon Dublin, 10 Nov 2026: an API that AI agents pay to check their code against the EU AI Act, and [humanizer-es](https://github.com/AIwithDiego/humanizer-es), a humanizer for Spanish that ranked first of six in a blind test.
 
 ## Featured work
 
@@ -59,6 +59,15 @@ An AI security and EU compliance analyst for Claude Code: OWASP LLM and Agentic 
 <br><br>
 <code>Claude Code plugin</code> <code>OWASP</code> <code>EU law</code>
 </td>
+<td width="50%" valign="top">
+<a href="https://github.com/AIwithDiego/session-receipts"><img src="assets/cover-session-receipts.png" alt="Session receipts: 177 sessions read in one trial week, 3 broke my rules, one past my git hook"></a>
+<h3><a href="https://github.com/AIwithDiego/session-receipts">Session receipts</a></h3>
+A skill for Claude Code and Codex that reads the session logs already on your machine and writes a receipt per session: what you asked, what the agent did, and your own rules marked kept or broken with the log line as proof. In its first week it caught a push to main that got past my git hook. Nothing leaves your machine. <a href="https://aiwithdiego.github.io/session-receipts/demo/">Try the demo</a>.
+<br><br>
+<code>Claude Code skill</code> <code>Codex</code> <code>Python</code> <code>Agent governance</code>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/AIwithDiego/byjosem-case-study"><img src="assets/cover-byjosem.png" alt="ByJoseM: the events hub in the admin"></a>
 <h3><a href="https://github.com/AIwithDiego/byjosem-case-study">ByJoseM case study</a></h3>
